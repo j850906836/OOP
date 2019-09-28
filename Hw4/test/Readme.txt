@@ -1,0 +1,3 @@
+有自己做了一個non-member function叫做traversal
+可以照順序印出背包裡的所有物品
+405410009	高靖智	Kaojohnnyj850906836@gmail.com 
